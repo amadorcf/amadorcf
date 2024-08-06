@@ -3,9 +3,10 @@
 
 <div align="center">
   <br>
-  <div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="header" align="center" >
+    <img src="https://c.tenor.com/wF5RiCnfj34AAAAC/tenor.gif" width="400""/>
   </div>
+  
   <br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/amadorcf/">
