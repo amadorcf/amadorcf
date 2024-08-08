@@ -25,7 +25,7 @@
 </div>
 
 # 💫 Sobre mi:
-### ¡Hola! Soy Amador, un desarrollador autodidacta buscando nuevas experiencias de desarrollo de software y aplicaciones web
+### ¡Hola! Soy Amador, un desarrollador autodidacta creando proyectos de desarrollo de software y aplicaciones web.
 
 # 💻 Habilidades:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
